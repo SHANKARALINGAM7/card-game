@@ -42,9 +42,9 @@ let cardScore=0,cont=0;
            }
            function resetImages() {
  
-            document.getElementById('A').src = "images/back view.jpeg";
-            document.getElementById('B').src = "images/back view.jpeg";
-            document.getElementById('C').src = "images/back view.jpeg";
+            document.getElementById('A').src = "images/back view.jpg";
+            document.getElementById('B').src = "images/back view.jpg";
+            document.getElementById('C').src = "images/back view.jpg";
   
             
 }
